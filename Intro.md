@@ -6,7 +6,7 @@ Hello there! This semester Programming with Data Structures will be using C# and
 
 * [What is .NET?](C-Sharpand.NET/.NET-intro.md)
 * [C# Intro](C-Sharpand.NET/c-sharp-intro.md)
-* Create a C# project
+* [Create your first project](C-Sharpand.NET/firstproject.md)
 
 ## 2. Syntax
 
