@@ -5,7 +5,7 @@
 Hello there! This semester Programming with Data Structures will be using C# and it will be very important to know the basics. Learning an entire new language can be daunting, but do not worry! Here is a tutorial for you to study and reference throughout the semester and help to learn C# and .NET as you learn about Data Structures.
 
 * [What is .NET?](C-Sharpand.NET/.NET-intro.md)
-* C# intro
+* [C# Intro](C-Sharpand.NET/c-sharp-intro.md)
 * Create a C# project
 
 ## 2. Syntax
