@@ -42,6 +42,8 @@ If you have any other questions see [C# Coding Style](https://github.com/dotnet/
 
 For a more in depth look at C# and how it works look at Microsofts website [here](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/).
 
+If you would like to move on to coding, [create your first project!](firstproject.md)
+
 
 
 
