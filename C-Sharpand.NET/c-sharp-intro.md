@@ -16,7 +16,7 @@ C# is used for many different things. Here are just a few:
 
 ## C# fun facts!
 
-C# runs on the .NET framework, for more information on that click [here](C-Sharpand.NET/.NET-intro.md)
+C# runs on the .NET framework, for more information on that check out, [what is .NET?](.NET-intro.md)
 
 
 
