@@ -32,5 +32,4 @@
 * Abstraction
 * Inheritance
 * Polymorphism
-* 
 
