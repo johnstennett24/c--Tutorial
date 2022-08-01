@@ -27,12 +27,18 @@
 
 <span style = "font-size:20px">Now to run your program.cs file you will need to go back into the terminal and do the following.</span>
 
-<span style = "font-size:20px">1. Type 'dotnet build'</span>
+<span style = "font-size:20px">1. Type 'dotnet build' and press enter</span>
+
+![Dotnet Build](../Assets/DotnetBuild.png)
 
 <span style = "font-size:20px">This will compile and build the program. This will also give us any errors in the program before it actually runs if there are any.</span>
 
-<span style = "font-size:20px">1. Type 'dotnet run'</span>
+![Dotnet Build](../Assets/DotnetBuildEnter.png)
+
+<span style = "font-size:20px">1. Type 'dotnet run' and press enter</span>
 
 <span style = "font-size:20px">This will now run the compiled code and you will see "Hello World!" appear in the terminal.</span>
+
+![Dotnet Build](../Assets/DotnetRunEnter.png)
 
 <span style = "font-size:20px">Great! If you are comfortable with this then lets move on to the [C# Syntax](../Syntax/Syntax.md)
