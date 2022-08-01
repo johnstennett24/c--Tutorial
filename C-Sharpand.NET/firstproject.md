@@ -34,3 +34,5 @@
 <span style = "font-size:20px">1. Type 'dotnet run'</span>
 
 <span style = "font-size:20px">This will now run the compiled code and you will see "Hello World!" appear in the terminal.</span>
+
+<span style = "font-size:20px">Great! If you are comfortable with this then lets move on to the [C# Syntax](../Syntax/Syntax.md)
