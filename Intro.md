@@ -10,13 +10,12 @@
 
 ## <span style = "color:red;font-weight:900;font-size:25px">2. Syntax</span>
 
-* <span style = "font-size:20px">C# Syntax</span>
-* <span style = "font-size:20px">The Main() function</span>
+* <span style = "font-size:20px">[C# Syntax](/Syntax/Syntax.md)</span>
 
-## <span style = "color:red;font-weight:900;font-size:25px">3. Data Types and variables</span>
+## <span style = "color:red;font-weight:900;font-size:25px">3. Data Types and Variables</span>
 
 * <span style = "font-size:20px">Specifying Data Types</span>
-* <span style = "font-size:20px">Creating variables</span>
+* <span style = "font-size:20px">Creating Variables</span>
 
 ## <span style = "color:red;font-weight:900;font-size:25px">4. Loops</span>
 
